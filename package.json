@@ -1,0 +1,30 @@
+{
+  "name": "react-navigation-state-manager",
+  "version": "1.0.0",
+  "description": "Handy utils for react-navigation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr3v3r/react-navigation-state-manager.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "react-navigation",
+    "statusbar"
+  ],
+  "author": "Aliaksei Astafyeu",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-navigation": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/tr3v3r/react-navigation-state-manager/issues"
+  },
+  "homepage": "https://github.com/tr3v3r/react-navigation-state-manager#readme"
+}
